@@ -80,10 +80,14 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
+
 ![WhatsApp Image 2025-11-12 at 10 47 00_b4bd30e0](https://github.com/user-attachments/assets/e4ce8359-e44f-4c15-86bf-7f75c02ca3a6)
 
 
 **RTL realization Output:** 
+
+
 <img width="908" height="948" alt="Screenshot 2025-11-12 103729" src="https://github.com/user-attachments/assets/455241a3-93bf-4e9c-a773-c6cbfb714dfc" />
 
 
@@ -92,5 +96,5 @@ endmodule
 <img width="1920" height="1122" alt="Screenshot 2025-11-12 104427" src="https://github.com/user-attachments/assets/8dcf2930-3fb0-47b2-90c5-fb3264c1aaca" />
 
 **Result:**
-thus To study and verify the truth table of logic gates in Quartus II using Verilog programming is successfully completed
+thus To study and verify the truth table of logic gates in Quartus II using Verilog programming is successfully completed.
 
