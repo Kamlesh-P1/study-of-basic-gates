@@ -66,7 +66,7 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
-module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+module ex1(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 output c1,c2,c3,c4,c5,c6,c7;
 not g1(c1,a);
@@ -96,5 +96,6 @@ endmodule
 <img width="1920" height="1122" alt="Screenshot 2025-11-12 104427" src="https://github.com/user-attachments/assets/8dcf2930-3fb0-47b2-90c5-fb3264c1aaca" />
 
 **Result:**
-thus To study and verify the truth table of logic gates in Quartus II using Verilog programming is successfully completed.
+
+Thus To study and verify the truth table of logic gates in Quartus II using Verilog programming is successfully completed.
 
