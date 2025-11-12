@@ -97,5 +97,5 @@ endmodule
 
 **Result:**
 
-Thus To study and verify the truth table of logic gates in Quartus II using Verilog programming is successfully completed.
+Thus all the logic gates and their corresponding truth tables were successfully designed and verified using Quartus II software.
 
